@@ -1,7 +1,7 @@
 maven-repo
 ==========
 
-Maven repository to use for .aar files or .jar that are not in Maven Central.
+Maven repository which contain Android .aar dependencies or .jar dependencies that are not in Maven Central. You can use it with Gradle or Maven.
 
 How to Use
 ==========
