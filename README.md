@@ -15,7 +15,7 @@ Add this repository to your gradle.build file:
         mavenCentral()
     }
 
-Available Artifacts:
+Available Artifacts
 ==========
 
     compile 'com.facebook:FacebookSdk:3.0.1'
