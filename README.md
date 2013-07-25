@@ -20,6 +20,7 @@ Available Artifacts:
 
     compile 'com.facebook:FacebookSdk:3.0.1'
     compile 'android.youtube:youtube_api:1.0'
+    compile 'android.google:cast:1.0.0'
 
 
 Developed By
