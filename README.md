@@ -22,6 +22,7 @@ Available Artifacts
     compile 'android.youtube:youtube_api:1.0'
     compile 'android.google:cast:1.0.1'
     compile 'com.paginglistview:paging-listview:1.0'
+    compile 'com.qachee:qachee:1.0b'
 
 
 Developed By
