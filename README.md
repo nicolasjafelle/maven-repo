@@ -24,6 +24,7 @@ Available Artifacts
     compile 'com.paginglistview:paging-listview:1.0'
     compile 'com.qachee:qachee:1.0'
     compile 'com.qachee:qachee:1.0b'
+    compile 'com.refresh.menuitem:refreshmenuitem:1.0'
 
 
 Developed By
